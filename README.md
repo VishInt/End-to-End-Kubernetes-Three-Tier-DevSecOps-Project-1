@@ -6,7 +6,7 @@
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-![Three-Tier Banner]()
+![Three-Tier Banner](https://github.com/VishInt/End-to-End-Kubernetes-Three-Tier-DevSecOps-Project-1/blob/main/THREE-TIER_CICD.gif)
 
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
