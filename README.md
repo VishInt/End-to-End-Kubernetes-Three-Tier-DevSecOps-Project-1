@@ -6,7 +6,8 @@
 [![AWS](https://img.shields.io/badge/AWS-%F0%9F%9B%A1-orange)](https://aws.amazon.com)
 [![Terraform](https://img.shields.io/badge/Terraform-%E2%9C%A8-lightgrey)](https://www.terraform.io)
 
-![Three-Tier Banner](file:///G:/My%20Drive/PROJECT_DEVOPS_CLOUD/DevOpsify_Project-2/Untitled%20Diagram.svg)
+![Three-Tier Banner]()
+
 
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
